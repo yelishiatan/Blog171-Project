@@ -1,0 +1,141 @@
+body {
+  color :#cecdf9;
+}
+.gtco-cover .overlay {
+  background-color: #c2d8f7;
+}
+.atas {
+  margin-top: 70px;
+}
+
+img {
+  width: 300px;
+  height:  250px;
+}
+
+
+.gtco-nav ul li a {
+  color :#0d029a;
+}
+
+.gtco-nav a {
+  color : #0d247d;
+}
+
+.isicerita {
+  color: #333131;
+  text-align: center;
+}
+
+a {
+  color:#546eb9;
+  text-align: center;
+}
+
+#utama {
+  width:1100px;
+  height : 520px;
+}
+
+#gtco-header .mt-text {
+  margin-top: 4em;
+  margin-bottom: 1em;
+}
+
+h1,h4,p,h5,h3{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.gambarisi {
+  margin-left: 530px;
+}
+
+#gtco-footer .gtco-widget {
+  text-align: center;
+}
+form {
+  color:#07061f;
+
+}
+
+#tentang {
+  color: #09C6AB;
+}
+
+#gtco-features {
+  background: #66b1d6;
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgb(102, 177, 214);
+}
+
+#gtco-header .form-wrap {
+  border-top: 10px solid #66b1d6;
+      border-top-width: 10px;
+      border-top-style: solid;
+      border-top-color: rgb(102, 177, 214);
+}
+
+.btn-primary {
+background: #66b1d6;
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgb(102, 177, 214);
+    color: #fff;
+    border: 2px solid #66b1d6 !important;
+    border-top-color: rgb(102, 177, 214);
+    border-top-style: solid;
+    border-top-width: 2px;
+    border-right-color: rgb(102, 177, 214);
+    border-right-style: solid;
+    border-right-width: 2px;
+    border-bottom-color: rgb(102, 177, 214);
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    border-left-color: rgb(102, 177, 214);
+    border-left-style: solid;
+    border-left-width: 2px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+  }
+
+  .postblog {
+
+margin-left: 250px;
+  }
+
+  .atas {
+    margin-left: 400px;
+    margin-right: 500px;
+  }
+
+  #gtco-header h1 {
+    color: #140061;
+  }
+
+  #editblog {
+    margin-left: 655px;
+
+  }
+
+  #deleteblog {
+margin-left: 648px;
+  }
