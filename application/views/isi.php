@@ -49,6 +49,10 @@
             echo "<a href='/blog/" . $blog['blog_ID'] ."'>" . $blog['judul']."<a><br>";
             ?>
 
+            <?php
+          echo "<a href='/blog/" . $blog['blog_ID'] ."'>" . $blog['tanggal']."<a><br>";
+          ?>
+
           </div>
       </div>
 
